@@ -142,11 +142,12 @@ Full e-commerce flow with REST API, webview checkout, bKash payments and interna
 
 </td><td width="50%" valign="top">
 
-**[All-In-One — Multi-Role](https://github.com/developer-rahim/All-In-One--Multi-Role-Management)**
+**[Avijog — Government Service App](https://github.com/nextive-rahim/Avijog)**
 
-Multi-role management platform with role dashboards, PDF viewing, file sharing and GetX routing.
+Citizen grievance portal for Bangladesh — OTP auth, NID verification, Bangla localisation
+and Clean Architecture.
 
-`flutter` `getx` `role-based-access-control` `firebase`
+`flutter` `riverpod` `clean-architecture` `government`
 
 </td></tr>
 </table>
@@ -167,6 +168,7 @@ Multi-role management platform with role dashboards, PDF viewing, file sharing a
 | [Muslim-App](https://github.com/developer-rahim/Muslim-App) | Dart | Online and offline Quran app with SQLite caching |
 | [Sms-To-Email](https://github.com/developer-rahim/Sms-To-Email) | Dart | SMS inbox forwarded to email via a background worker |
 | [MusicPlayerBacground](https://github.com/developer-rahim/MusicPlayerBacground) | Dart | Music player with background audio playback |
+| [Avijog](https://github.com/nextive-rahim/Avijog) | Dart · Riverpod | Government service app for citizen grievances — OTP auth, NID verification and full Bangla localisation |
 
 ### Data, Web & Tooling
 
